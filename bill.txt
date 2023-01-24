@@ -1,0 +1,9 @@
+king of the forest is the lion
+and the indian national animal is tiger
+total 24
+drwxrwxr-x 4 kishan kishan 4096 Jan 13 02:31 newfolder2
+drwxrwxr-x 2 kishan kishan 4096 Jan 14 02:34 top3
+drwxrwxr-x 2 kishan kishan 4096 Jan 14 02:34 top2
+drwxrwxr-x 2 kishan kishan 4096 Jan 14 02:34 top1
+-rw-rw-r-- 1 kishan kishan  807 Jan 14 02:38 file.txt
+-rw-rw-r-- 1 kishan kishan   71 Jan 14 02:40 bill.txt
