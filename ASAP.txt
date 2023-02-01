@@ -1,0 +1,91 @@
+Content (uncountable)
+Content as a singular noun is uncountable. It means the ideas that are contained in a piece of writing or a film or a speech:
+
+This film has adult content; it is not suitable for children.
+
+His speech was very flowery, but it lacked content and was quite superficial.
+
+Content can also mean the amount of a particular substance contained in something:
+
+These hamburgers have a high fat content; they’re not good for you.
+
+There’s a common misconception that someone could use Git or GitHub and have the same experience. But ask any developer, and they will tell you that these are two completely different entities. For one, they perform different functions and serve different purposes. They aren’t even owned by the same company (despite the name). So what are Git and GitHub exactly, and what is the difference between Git and GitHub as software tools and services?
+
+GitHub is a collaboration and version control platform for storing and managing code. Using this tool, you can collaborate with others on projects from anywhere. This tutorial will explain what GitHub is used for and the differences between Git and GitHub.
+
+
+The main Git vs GitHub difference is in their functionality. While they both provide source code management (SCM) and make merging and sharing code easier, this is pretty much where their similarities end. Think of Git as a single computer and GitHub as a network of multiple interconnected computers, all with the same end goal but a wildly different role for how to get there.
+
+At its core, Git is a free, open-source software distributed version control system (DVCS) designed to manage all source code history. It can keep a history of commits, can reverse changes, and lets developers share code. Each developer must have Git installed on his or her local device to collaborate. It is commonly referred to as one of the best DevOps tools to understand and use in the developer space, and it’s among the most widely used tools today. Companies like Amazon, Facebook, and Microsoft use it, to name a few.
+
+Content (uncountable)
+Content as a singular noun is uncountable. It means the ideas that are contained in a piece of writing or a film or a speech:
+
+This film has adult content; it is not suitable for children.
+
+His speech was very flowery, but it lacked content and was quite superficial.
+
+Content can also mean the amount of a particular substance contained in something:
+
+These hamburgers have a high fat content; they’re not good for you.
+
+There’s a common misconception that someone could use Git or GitHub and have the same experience. But ask any developer, and they will tell you that these are two completely different entities. For one, they perform different functions and serve different purposes. They aren’t even owned by the same company (despite the name). So what are Git and GitHub exactly, and what is the difference between Git and GitHub as software tools and services?
+
+GitHub is a collaboration and version control platform for storing and managing code. Using this tool, you can collaborate with others on projects from anywhere. This tutorial will explain what GitHub is used for and the differences between Git and GitHub.
+
+
+The main Git vs GitHub difference is in their functionality. While they both provide source code management (SCM) and make merging and sharing code easier, this is pretty much where their similarities end. Think of Git as a single computer and GitHub as a network of multiple interconnected computers, all with the same end goal but a wildly different role for how to get there.
+
+At its core, Git is a free, open-source software distributed version control system (DVCS) designed to manage all source code history. It can keep a history of commits, can reverse changes, and lets developers share code. Each developer must have Git installed on his or her local device to collaborate. It is commonly referred to as one of the best DevOps tools to understand and use in the developer space, and it’s among the most widely used tools today. Companies like Amazon, Facebook, and Microsoft use it, to name a few.
+
+Content (uncountable)
+Content as a singular noun is uncountable. It means the ideas that are contained in a piece of writing or a film or a speech:
+This film has adult content; it is not suitable for children.
+
+His speech was very flowery, but it lacked content and was quite superficial.
+
+Content can also mean the amount of a particular substance contained in something:
+
+These hamburgers have a high fat content; they’re not good for you.
+
+There’s a common misconception that someone could use Git or GitHub and have the same experience. But ask any developer, and they will tell you that these are two completely different entities. For one, they perform different functions and serve different purposes. They aren’t even owned by the same company (despite the name). So what are Git and GitHub exactly, and what is the difference between Git and GitHub as software tools and services?
+
+GitHub is a collaboration and version control platform for storing and managing code. Using this tool, you can collaborate with others on projects from anywhere. This tutorial will explain what GitHub is used for and the differences between Git and GitHub.
+
+
+The main Git vs GitHub difference is in their functionality. While they both provide source code management (SCM) and make merging and sharing code easier, this is pretty much where their similarities end. Think of Git as a single computer and GitHub as a network of multiple interconnected computers, all with the same end goal but a wildly different role for how to get there.
+
+At its core, Git is a free, open-source software distributed version control system (DVCS) designed to manage all source code history. It can keep a history of commits, can reverse changes, and lets developers share code. Each developer must have Git installed on his or her local device to collaborate. It is commonly referred to as one of the best DevOps tools to understand and use in the developer space, and it’s among the most widely used tools today. Companies like Amazon, Facebook, and Microsoft use it, to name a few.
+Content (uncountable)
+Content as a singular noun is uncountable. It means the ideas that are contained in a piece of writing or a film or a speech:
+
+This film has adult content; it is not suitable for children.
+
+His speech was very flowery, but it lacked content and was quite superficial.
+
+
+:q
+:q!
+
+There’s a common misconception that someone could use Git or GitHub and have the same experience. But ask any developer, and they will tell you that these are two completely different entities. For one, they perform different functions and serve different purposes. They aren’t even owned by the same company (despite the name). So what are Git and GitHub exactly, and what is the difference between Git and GitHub as software tools and services?
+
+
+
+The main Git vs GitHub difference is in their functionality. While they both provide source code management (SCM) and make merging and sharing code easier, this is pretty much where their similarities end. Think of Git as a single computer and GitHub as a network of multiple interconnected computers, all with the same end goal but a wildly different role for how to get there.
+
+At its core, Git is a free, open-source software distributed version control system (DVCS) designed to manage all source code history. It can keep a history of commits, can reverse changes, and lets developers share code. Each developer must have Git installed on his or her local device to collaborate. It is commonly referred to as one of the best DevOps tools to understand and use in the developer space, and it’s among the most widely used tools today. Companies like Amazon, Facebook, and Microsoft use it, to name a few.
+Content (uncountable)
+Content as a singular noun is uncountable. It means the ideas that are contained in a piece of writing or a film or a speech:
+
+This film has adult content; it is not suitable for children.
+
+His speech was very flowery, but it lacked content and was quite superficial.
+
+Content can also mean the amount of a particular substance contained in something:
+
+These hamburgers have a high fat content; they’re not good for you.
+
+There’s a common misconception that someone could use Git or GitHub and have the same experience. But ask any developer, and they will tell you that these are two completely different entities. For one, they perform different functions and serve different purposes. They aren’t even owned by the same company (despite the name). So what are Git and GitHub exactly, and what is the difference between Git and GitHub as software tools and services?
+
+GitHub is a collaboration and version control platform for storing and managing code. Using this tool, you can collaborate with others on projects from anywhere. This tutorial will explain what GitHub is used for and the differences between Git and GitHub.
+
